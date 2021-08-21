@@ -1,4 +1,4 @@
-# survey-form
+# Survey-Form
 
 Due to current pandemic it has been difficult to physically contact people ywt difficult times bring the best in us and rediscover our hidden potentials.
 
