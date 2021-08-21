@@ -8,13 +8,15 @@ According to NHS officials, OVER 4,00,000 people joined the NHS volunteer progra
 
 which clearly reflects that goodness within the community still persists and will continue to persist.
 
-#I wish you a happy day forward ☺☺
+# I wish you a happy day forward ☺☺
 
-Through this survey form I learnt about 1) buttons and their functionalities
+# Through this survey form I learnt about
+                                        1) buttons and their functionalities
                                         2) how to build a form 
                                         3) submit button
                                         
-USER-STORY folllowed in survey form:
+# USER-STORY folllowed in survey form:
+
 User Story #1: I can see a title with id="title" in H1 sized text.
 
 User Story #2: I can see a short explanation with id="description" in P sized text.
